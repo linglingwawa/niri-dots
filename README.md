@@ -16,3 +16,4 @@ you might want to change niri's _config.kdl_ a bit because i use gentoo and i ma
 # preview
 <img width="1920" height="1080" alt="Screenshot from 2026-06-24 14-37-52" src="https://github.com/user-attachments/assets/daf8b638-aeed-4e0f-a7f9-420be3389d3e" />
 
+*dont mind the midnightblue folder in wofi just ignore that*
