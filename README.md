@@ -10,4 +10,7 @@ iosevka (not nerd font, just iosevka),
 waybar,
 thats it
 
+# note
+you might want to change niri's _config.kdl_ a bit because i use gentoo and i make gentoo-pipewire-launcher start automatically, otherwise have fun with these (you also need any kind of wallpaper)
+
 # preview
